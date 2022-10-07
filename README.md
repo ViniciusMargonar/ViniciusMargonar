@@ -32,7 +32,7 @@ Atualmente estou cursando **Engenharia de Software** no **Instituto Federal do P
 
 <div align="center">
   <a href="https://github.com/ViniciusMargonar">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMargonar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMargonar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMargonar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
