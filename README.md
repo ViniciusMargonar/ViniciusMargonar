@@ -12,7 +12,7 @@ Atualmente estou cursando **Engenharia de Software** no **Instituto Federal do P
 
 <div  align="center">
 
-**Estudando**/**Pretendendo** estudar:
+Estou **estudando**/**pretendendo** estudar:
 
 </div>
 
