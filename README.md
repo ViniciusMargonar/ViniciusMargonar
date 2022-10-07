@@ -14,4 +14,6 @@ Atualmente estou cursando Engenharia de Software no Instituto Federal do Paraná
 
 ##
 
-![Snake animation](https://github.com/ViniciusMargonar/ViniciusMargonar/blob/main/README.md)
+  ![Snake animation](https://github.com/ViniciusMargonar/ViniciusMargonar/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
