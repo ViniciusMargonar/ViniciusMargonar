@@ -3,14 +3,16 @@
 
 
 <div  align="center"> 
-Atualmente estou cursando Engenharia de Software no Instituto Federal do Paraná - IFPR
+
+Atualmente estou cursando **Engenharia de Software** no **Instituto Federal do Paraná - IFPR**
+
 </div>
 
 ##
 
 <div  align="center">
 
-Linguagens que pretendo/estou estudando:
+**Estudando**/**Pretendendo** estudar:
 
 </div>
 
