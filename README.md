@@ -38,6 +38,6 @@ Estou **estudando**/**pretendendo** estudar:
 
 ##
 
-  ![Snake animation](https://github.com/ViniciusMargonar/ViniciusMargonar/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/ViniciusMargonar/ViniciusMargonar/blob/output/github-contribution-grid-snake.svg)
   
   ##
